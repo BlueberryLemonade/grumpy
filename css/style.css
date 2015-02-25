@@ -1,0 +1,81 @@
+/************************
+General
+************************/
+
+body {
+	font-family: 'Cuprum', sans-serif;
+}
+
+img {
+	max-width: 100%;;
+}
+/************************
+Header
+************************/
+
+
+
+ul{
+	-webkit-padding-start: 0px;
+	margin: 0 auto;
+	clear: both;
+}
+header{
+	margin: 10px auto;
+	display: block;
+	overflow: hidden;
+	width: 90%;
+}
+
+
+#title{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+
+
+/************************
+Navigation
+************************/
+
+
+nav{
+
+	width: 90%;
+	margin: 0 auto;
+}
+
+nav li{
+	clear: both;
+	width: 22.5%;
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+}
+
+nav li a{
+	list-style: none;
+	text-decoration: none;
+	background-color: yellow;
+	text-align: center;
+	margin: 1%;
+	padding: 10px;
+}
+
+
+
+/************************
+Home Content
+************************/
+
+.wrapper {
+
+	float: both;
+	margin: 0 auto;
+	background-color: #F48222;
+	width: 90%;
+}
